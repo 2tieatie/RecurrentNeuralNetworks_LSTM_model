@@ -1,0 +1,10 @@
+{
+  "window_size": 30,
+  "batch_size": 32,
+  "epoches": 5000,
+  "symbol": "AAPL",
+  "pred_start_date": "2023-01-01",
+  "next_day_date": "2023-01-02",
+  "days": 180,
+  "train_coeff": 0.8
+}
